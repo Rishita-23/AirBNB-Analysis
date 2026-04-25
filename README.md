@@ -73,5 +73,3 @@ This project successfully:
 - Demonstrates how EDA can be used to extract meaningful insights from real-world datasets  
 
 ---
-
-## 📂 Project Structure  
