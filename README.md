@@ -1,12 +1,10 @@
-# 🏡 Airbnb Price Analysis & Prediction
+**# 🏡 Airbnb Price Analysis & Prediction
 
 ----
 
 ## 📖 Overview
 
 This project focuses on analyzing Airbnb listing data to understand pricing patterns, demand trends, and key influencing factors, followed by building a machine learning model to predict listing prices.
-
-The goal is to enable data-driven pricing strategies for Airbnb hosts.
 
 ----
 
@@ -78,3 +76,4 @@ The project successfully:
 Identifies key drivers of Airbnb pricing
 Provides insights for better pricing decisions
 Demonstrates the use of ML in real-world datasets
+**
