@@ -1,8 +1,8 @@
-#🏡 Airbnb Price Analysis & Prediction
+# 🏡 Airbnb Price Analysis & Prediction
 
 ----
 
-##📖 Overview
+## 📖 Overview
 
 This project focuses on analyzing Airbnb listing data to understand pricing patterns, demand trends, and key influencing factors, followed by building a machine learning model to predict listing prices.
 
@@ -10,7 +10,7 @@ The goal is to enable data-driven pricing strategies for Airbnb hosts.
 
 ----
 
-🎯 Problem Statement
+# 🎯 Problem Statement
 
 *Airbnb hosts often face challenges in:
 
@@ -20,7 +20,7 @@ Identifying factors affecting pricing
 
 This project solves these problems using EDA + Machine Learning.
 
-*📊 Dataset
+* 📊 Dataset
 Dataset: Airbnb Listings Dataset
 Number of Rows: [Add df.shape[0]]
 Number of Features: [Add df.shape[1]]
@@ -34,13 +34,13 @@ Availability (365 days)
 
 ---
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
 Jupyter Notebook
-##🔍 Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 Analyzed price distribution (highly skewed)
 Compared room type vs pricing
 Studied location-based price variations
@@ -51,7 +51,7 @@ Removed duplicates
 Converted data types
 Applied log transformation to normalize price
 Encoded categorical variables
-##🤖 Model Building
+## 🤖 Model Building
 Model Used:
 Linear Regression / Random Forest (whichever you used)
 Target Variable:
@@ -60,14 +60,14 @@ Steps:
 Train-test split
 Model training
 Model evaluation
-##📈 Model Performance
+## 📈 Model Performance
 R² Score: [Add]
 RMSE: [Add]
 MAE: [Add]
 
 ---
 
-#📊 Key Insights
+# 📊 Key Insights
 Location plays a major role in price variation
 Entire homes are more expensive than private/shared rooms
 Price distribution is right-skewed
