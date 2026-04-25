@@ -60,10 +60,6 @@ Steps:
 Train-test split
 Model training
 Model evaluation
-## 📈 Model Performance
-R² Score: [Add]
-RMSE: [Add]
-MAE: [Add]
 
 ---
 
